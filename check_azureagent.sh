@@ -1,4 +1,4 @@
-#! /bin/bash -l
+#! /bin/bash
 #version 18102023
 
 echo "* * * * * /opt/checkwaagent.sh" >> /var/spool/cron/root
